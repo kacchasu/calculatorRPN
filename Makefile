@@ -1,6 +1,6 @@
 # Compiler and Flags
 CC=gcc
-CFLAGS=-Wall -g
+CFLAGS=-Wall -Wextra -Werror
 
 # Executable Name
 TARGET=calculator
